@@ -1,37 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClaimBasedAuth\\Migrations\\20250224121242_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\claimbasedauth\\claimbasedauth\\migrations\\20250224121504_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|c:\\users\\diya patel\\desktop\\jwt\\claimbasedauth\\claimbasedauth\\migrations\\20250224121504_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382F5EFB-1ABC-4593-8352-141E96BC112C}|ClaimBasedAuth\\ClaimBasedAuth.csproj|solutionrelative:claimbasedauth\\migrations\\20250224121504_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,9 +63,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Models\\RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Models\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Models\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Models\\RegisterRequest.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Models\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Program.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Program.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Program.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T12:24:13.677Z",
               "EditorCaption": ""
@@ -89,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\UserController.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvwoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Services\\TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Services\\TokenService.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Services\\TokenService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wBYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20250224121504_first.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
               "RelativeToolTip": "ClaimBasedAuth\\Migrations\\20250224121504_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\appsettings.json",
               "RelativeDocumentMoniker": "ClaimBasedAuth\\appsettings.json",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\ClaimBasedAuth\\ClaimBasedAuth\\appsettings.json",
               "RelativeToolTip": "ClaimBasedAuth\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -150,9 +149,9 @@
               "DocumentIndex": 6,
               "Title": "20250224121242_second.cs",
               "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
-              "RelativeDocumentMoniker": "ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
+              "RelativeDocumentMoniker": "..\\..\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
               "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
-              "RelativeToolTip": "ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
+              "RelativeToolTip": "..\\..\\DotNetBasic\\ClaimBasedAuth\\ClaimBasedAuth\\Migrations\\20250224121242_second.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T12:12:42.411Z"

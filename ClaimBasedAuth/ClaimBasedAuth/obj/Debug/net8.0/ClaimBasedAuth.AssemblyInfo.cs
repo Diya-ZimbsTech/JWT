@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClaimBasedAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a0926fc95a4e5f93980cc612685290f1c120a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a0377466c9b8f6a1c4739f8c327c612be93abd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClaimBasedAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClaimBasedAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
