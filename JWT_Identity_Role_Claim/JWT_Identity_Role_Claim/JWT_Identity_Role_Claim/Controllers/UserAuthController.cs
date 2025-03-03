@@ -88,6 +88,7 @@ namespace Auth_API.Controllers
             else if (role == "Teacher")
             {
                 await _userManager.AddClaimAsync(user, new Claim("CanViewStudents", "true"));
+                //await _userManager.AddClaimAsync(user, new Claim("CanManageStudents", "true"));
             }
 
             return Ok(new { Message = "User Created Successfully", Role = role });
